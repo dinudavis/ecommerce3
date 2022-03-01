@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Mindoors: Swift to minds</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+	<div class="navbar">
+		<div class="logo">
+			<img src="images/logo.jpg " width="125px">
+		</div>
+	</div>
+
+</body>
+</html>
